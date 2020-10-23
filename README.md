@@ -1,2 +1,2 @@
 # bank-zbozowy-mvn
-IO lab3 file
+![Build status](https://travis-ci.com/Barteu/bank-zbozowy-mvn.svg?branch=main)
